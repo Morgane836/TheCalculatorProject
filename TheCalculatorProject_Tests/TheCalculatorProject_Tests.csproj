@@ -21,8 +21,4 @@
     <ProjectReference Include="..\TheCalculatorProject_Console\TheCalculatorProject_Console.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Using Include="NUnit.Framework" />
-  </ItemGroup>
-
 </Project>
